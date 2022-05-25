@@ -1,4 +1,7 @@
 # Loot-Images
+Loot Images Made By Project Boosted 
+Mr nFuRoX
+
 Images for loot boxes 
 
 Add These To Your Items.Lua
