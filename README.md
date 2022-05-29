@@ -2,6 +2,8 @@
 Loot Images Made By Project Boosted 
 Mr nFuRoX
 
+More being Added Daily
+
 Images for loot boxes 
 
 Add These To Your Shared/Items.Lua
